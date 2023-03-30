@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main(){
+print("Hello, LikeLion!");
+
+return 0;
+}

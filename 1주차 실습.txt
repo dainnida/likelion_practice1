@@ -1,4 +1,0 @@
-1.  repository 생성
-2. 올리고자 하는 '폴더'에서 우클릭하여 Git Bash Here 클릭
-3. git init 명령어 이용하여 저장소 생성
-4. git remote add origin []
